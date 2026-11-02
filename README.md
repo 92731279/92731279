@@ -115,17 +115,19 @@ Passionnée par les nouvelles technologies, j'aime explorer les données, dével
 
 ---
 
+
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=92731279&show_icons=true&theme=transparent&title_color=800020&icon_color=800020&text_color=800020&border_color=800020&hide_border=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=92731279&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=92731279&layout=compact&theme=transparent&title_color=800020&text_color=800020&border_color=800020" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=92731279&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=92731279&theme=transparent&ring=800020&fire=800020&currStreakLabel=800020&sideLabels=800020&currStreakNum=800020&sideNums=800020&dates=800020&border=800020" />
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=92731279&theme=tokyonight&hide_border=true" />
 
 </div>
+
 
 ---
 
@@ -133,13 +135,14 @@ Passionnée par les nouvelles technologies, j'aime explorer les données, dével
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-800020?style=for-the-badge&logo=googlechrome&logoColor=white)](https://widedmosbahiportfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://widedmosbahiportfolio.netlify.app/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-800020?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wided-mosbahi-97a967290/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wided-mosbahi-97a967290/)
 
-[![Email](https://img.shields.io/badge/Email-800020?style=for-the-badge&logo=gmail&logoColor=white)](mailto:widedmosbahi.pro.1@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:widedmosbahi.pro.1@gmail.com)
 
 </div>
+
 
 ---
 
