@@ -106,7 +106,7 @@ Passionnée par les nouvelles technologies, j'aime explorer les données, dével
 
 - **Application Web Tunisair** : développement d'une application de gestion des bulletins de soins et des remboursements avec ASP.NET MVC, Entity Framework et Bootstrap.
 
-🔗 Découvrez davantage de projets sur mon [Portfolio](https://widedmosbahiportfolio.netlify.app/).
+🔗 Découvrez davantage de projets sur mon [Portfolio](https://widedportfolio2026.netlify.app).
 
 ---
 
