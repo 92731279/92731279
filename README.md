@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://widedmosbahiportfolio.netlify.app/">
+  <a href="https://widedportfolio2026.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/92731279">
@@ -146,7 +146,7 @@ Passionnée par les nouvelles technologies, j'aime explorer les données, dével
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://widedmosbahiportfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://widedportfolio2026.netlify.app)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wided-mosbahi-97a967290/)
 
