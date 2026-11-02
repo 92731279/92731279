@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://widedportfolio2026.netlify.app">
+  <a href="https://widedportfolio.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/92731279">
@@ -106,7 +106,7 @@ Passionnée par les nouvelles technologies, j'aime explorer les données, dével
 
 - **Application Web Tunisair** : développement d'une application de gestion des bulletins de soins et des remboursements avec ASP.NET MVC, Entity Framework et Bootstrap.
 
-🔗 Découvrez davantage de projets sur mon [Portfolio](https://widedportfolio2026.netlify.app).
+🔗 Découvrez davantage de projets sur mon [Portfolio](https://widedportfolio.netlify.app).
 
 ---
 
@@ -146,7 +146,7 @@ Passionnée par les nouvelles technologies, j'aime explorer les données, dével
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://widedportfolio2026.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://widedportfolio.netlify.app)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wided-mosbahi-97a967290/)
 
