@@ -11,9 +11,6 @@
 
 ### Diplômée en Ingénierie des Systèmes d'Information et Data Science
 
-
-<h3 align="center">Diplômée en Ingénierie des Systèmes d'Information et Data Science</h3>
-
 <p align="center">
   📍 Tunisie
 </p>
