@@ -11,12 +11,25 @@
 
 ### Diplômée en Ingénierie des Systèmes d'Information et Data Science
 
-📍 Tunisie
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-800020?style=for-the-badge&logo=googlechrome&logoColor=white)](https://widedmosbahiportfolio.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-800020?style=for-the-badge&logo=github&logoColor=white)](https://github.com/92731279)
+<h3 align="center">Diplômée en Ingénierie des Systèmes d'Information et Data Science</h3>
 
-</div>
+<p align="center">
+  📍 Tunisie
+</p>
+
+<p align="center">
+  <a href="https://widedmosbahiportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/92731279">
+    <img src="https://img.shields.io/badge/GitHub-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/wided-mosbahi-97a967290/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
 
 ---
 
